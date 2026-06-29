@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Data (too large for git)
+dataset_public/
+dataset_self/
+features/
+
+# Model weights
+models/*.pth
+
+# Output
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp
+~$*
+nul
+_t.*
