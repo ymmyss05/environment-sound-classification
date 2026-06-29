@@ -5,7 +5,7 @@
 ## 项目结构
 
 ```
-人类/
+环境声音分类/
 ├── model/              # 模型定义
 │   ├── __init__.py
 │   └── resnet18.py     # ResNet18 + ImageNet 预训练
